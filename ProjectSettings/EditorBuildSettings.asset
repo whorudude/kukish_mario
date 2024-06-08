@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Logo.unity
+    guid: b9b25ed9baaa9d547a5084d2b6a288ee
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Menu.unity
+    guid: 55aab7ae436ba6f469dc3dbaf9532f2c
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level2.unity
+    guid: a87542c49472f1e438d0e4c53c57df61
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level3.unity
+    guid: 2f79304cead682d41a96c138cf2c4641
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level4.unity
+    guid: 88d9ccf803cb68241ba6532d1ab466af
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level5.unity
+    guid: 045d8aa02e1d95d46bd86c40507e1ad4
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level6.unity
+    guid: e15913bc5dfd7f84188edbc4fa268593
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level7.unity
+    guid: 621136091d85e814187684f67bb40a25
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level8.unity
+    guid: 54d1f2d2c8fc10744a6b7929db5b825a
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level9.unity
+    guid: 5addc66ac7cf9c043b741e6aa011a887
+  - enabled: 1
+    path: Assets/Kukish/Scenes/Level10.unity
+    guid: 8806d5b3348fde84a8b771eee4af17be
+  m_configObjects: {}
